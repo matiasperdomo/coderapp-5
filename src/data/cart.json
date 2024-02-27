@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Pro Plan Adultos",
+    "description": "Alimento completo y balanceado para perros adultos de razas pequeñas. Contiene pollo y arroz como ingredientes principales.",
+    "price": 10500,
+    "discountPercentage": 10,
+    "rating": 4.69,
+    "stock": 94,
+    "brand": "Pro Plan",
+    "category": "Alimentación para perros",
+    "thumbnail": "",
+    "images": [
+      "https://d28hi93gr697ol.cloudfront.net/071e89ac-46a5-8ab3/img/Producto/f1b0232a-6632-6826-65b3-0e2744a35585/active-pro-plan-6398ae3fb29e1.jpg"
+    ],
+    "quantity": 2
+  },
+  {
+    "id": 2,
+    "title": "Pedigree Vital Protection",
+    "description": "Alimento completo y balanceado para perros adultos de todas las razas. Contiene carne y cereales como ingredientes principales.",
+    "price": 5000,
+    "discountPercentage": 40,
+    "rating": 4.44,
+    "stock": 34,
+    "brand": "Pedigree",
+    "category": "Alimentación para perros",
+    "thumbnail": "",
+    "images": [
+      "https://www.mitiendademascotas.com/web/puertomadryn/wp-content/uploads/sites/17/2017/10/Pedigree-carne-pc.jpg"
+    ],
+    "quantity": 1
+  }
+]

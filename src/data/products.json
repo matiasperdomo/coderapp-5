@@ -1,0 +1,720 @@
+[
+  {
+    "id": 1,
+    "title": "Pro Plan Adultos",
+    "description": "Alimento completo y balanceado para perros adultos de razas pequeñas. Contiene pollo y arroz como ingredientes principales.",
+    "price": 10500,
+    "discountPercentage": 10,
+    "rating": 4.69,
+    "stock": 94,
+    "brand": "Pro Plan",
+    "category": "Alimentación para perros",
+    "thumbnail": "",
+    "images": [
+      "https://d28hi93gr697ol.cloudfront.net/071e89ac-46a5-8ab3/img/Producto/f1b0232a-6632-6826-65b3-0e2744a35585/active-pro-plan-6398ae3fb29e1.jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Pedigree Vital Protection",
+    "description": "Alimento completo y balanceado para perros adultos de todas las razas. Contiene carne y cereales como ingredientes principales.",
+    "price": 5000,
+    "discountPercentage": 40,
+    "rating": 4.44,
+    "stock": 34,
+    "brand": "Pedigree",
+    "category": "Alimentación para perros",
+    "thumbnail": "",
+    "images": [
+      "https://www.mitiendademascotas.com/web/puertomadryn/wp-content/uploads/sites/17/2017/10/Pedigree-carne-pc.jpg"
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Royal Canin Cachorros",
+    "description": "",
+    "price": 3500,
+    "discountPercentage": 15.46,
+    "rating": 4.09,
+    "stock": 36,
+    "brand": "Royal Canin",
+    "category": "Alimentación para perros",
+    "thumbnail": "",
+    "images": ["https://puppis.vteximg.com.br/arquivos/ids/193509-1000-1000/156187-156184-156185-156186.jpg?v=638239885766800000"]
+  },
+  {
+    "id": 4,
+    "title": "Eukanuba Adult Small Breed",
+    "description": "",
+    "price": 7500,
+    "discountPercentage": 17.91,
+    "rating": 4.3,
+    "stock": 123,
+    "brand": "Eukanuba",
+    "category": "Alimentación para perros",
+    "thumbnail": "",
+    "images": [
+      "https://nanolog.vtexassets.com/arquivos/ids/162376/Sin-titulo.jpg?v=637217746819830000"
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Purina Dog Chow Adultos ",
+    "description": "",
+    "price": 4000,
+    "discountPercentage": 10.58,
+    "rating": 4.09,
+    "stock": 32,
+    "brand": "Purina",
+    "category": "Alimentación para perros",
+    "thumbnail": "",
+    "images": [
+      "https://media2.mimundomascota.com.ar/2446-thickbox_default/dog-chow-perros-adultos-razas-pequenas-x-8kg.jpg"
+    ]
+  },
+  {
+    "id": 6,
+    "title": "Purina Excellent Cachorros",
+    "description": "",
+    "price": 9200,
+    "discountPercentage": 11.02,
+    "rating": 4.57,
+    "stock": 83,
+    "brand": "Purina",
+    "category": "Alimentación para perros",
+    "thumbnail": "",
+    "images": [
+      "https://www.supermascotas.com.co/wp-content/uploads/2023/05/7702521106706.jpg"
+    ]
+  },
+  {
+    "id": 7,
+    "title": "Purina Excellent Gatos",
+    "description": "",
+    "price": 12000,
+    "discountPercentage": 4.15,
+    "rating": 4.25,
+    "stock": 50,
+    "brand": "Purina",
+    "category": "Alimentación para gatos",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/179303-1000-1000/7613034755100-1.jpg?v=637570857843400000"
+    ]
+  },
+  {
+    "id": 8,
+    "title": "Pro Plan para Gato Adulto",
+    "description": "",
+    "price": 15000,
+    "discountPercentage": 10.23,
+    "rating": 4.43,
+    "stock": 68,
+    "brand": "Pro Plan",
+    "category": "Alimentación para gatos",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/179653-1000-1000/7613039900277_1.png?v=637570859825470000"
+    ]
+  },
+  {
+    "id": 9,
+    "title": "Royal Canin Cat Indoor",
+    "description": "",
+    "price": 66000,
+    "discountPercentage": 11.83,
+    "rating": 4.54,
+    "stock": 96,
+    "brand": "Infinix",
+    "category": "Alimentación para gatos",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/195273-1000-1000/100137.jpg?v=638348294927070000"
+    ]
+  },
+  {
+    "id": 10,
+    "title": "Cat Chow Adulto",
+    "description": "",
+    "price": 12000,
+    "discountPercentage": 6.18,
+    "rating": 4.43,
+    "stock": 89,
+    "brand": "Cat Chow",
+    "category": "Alimentación para gatos",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/186065-1000-1000/137020.jpg?v=637836434688500000"
+    ]
+  },
+  {
+    "id": 11,
+    "title": "VitalCat Balanced Gato Kitten",
+    "description": "",
+    "price": 36000,
+    "discountPercentage": 8.4,
+    "rating": 4.26,
+    "stock": 65,
+    "brand": "Impression of Acqua Di Gio",
+    "category": "Alimentación para gatos",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/168278-1000-1000/121065.jpg?v=637060645035600000"
+    ]
+  },
+  {
+    "id": 12,
+    "title": "Whiskas Carne y Leche Para Gatito",
+    "description": "",
+    "price": 5000,
+    "discountPercentage": 15.66,
+    "rating": 4,
+    "stock": 52,
+    "brand": "Royal_Mirage",
+    "category": "Alimentación para gatos",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/191630-1000-1000/145010.png?v=638139888499370000"
+    ]
+  },
+  {
+    "id": 13,
+    "title": "Dentastix Pedigree Razas Medianas",
+    "description": "",
+    "price": 1000,
+    "discountPercentage": 8.14,
+    "rating": 4.59,
+    "stock": 61,
+    "brand": "Pedigree",
+    "category": "Snacks",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/195860-1000-1000/235022.jpg?v=638411208278600000"
+    ]
+  },
+  {
+    "id": 14,
+    "title": "Golocan Bocaditos Finos 100gr",
+    "description": "",
+    "price": 990,
+    "discountPercentage": 15.6,
+    "rating": 4.21,
+    "stock": 114,
+    "brand": "Golocan",
+    "category": "Snacks",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/166284-1000-1000/434046.jpg?v=636887828383370000"
+    ]
+  },
+  {
+    "id": 15,
+    "title": "Pedigree Biscrok Multi - 100 Gr",
+    "description": "",
+    "price": 1200,
+    "discountPercentage": 10.99,
+    "rating": 4.7,
+    "stock": 105,
+    "brand": "Pedigree",
+    "category": "Snacks",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/182285-1000-1000/235027-3.jpg?v=637650377931000000"
+    ]
+  },
+  {
+    "id": 16,
+    "title": "Bocaditos Gatos Tasty Snack 130gr",
+    "description": "",
+    "price": 2050,
+    "discountPercentage": 13.31,
+    "rating": 4.83,
+    "stock": 110,
+    "brand": "Bocaditos",
+    "category": "Snacks",
+    "thumbnail": "",
+    "images": [
+      "https://traviesospetshop.com.ar/wp-content/uploads/2023/10/para-la-pagina-web.png"
+    ]
+  },
+  {
+    "id": 17,
+    "title": "Snacks Mon Ami Trainee - 75 Gr",
+    "description": "",
+    "price": 1750,
+    "discountPercentage": 4.09,
+    "rating": 4.52,
+    "stock": 78,
+    "brand": "Mon Ami",
+    "category": "Snacks",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/184240-1000-1000/233008.png?v=637733510298070000"
+    ]
+  },
+  {
+    "id": 18,
+    "title": "Dentastix Pedigree Razas Grandes",
+    "description": "",
+    "price": 800,
+    "discountPercentage": 13.1,
+    "rating": 4.56,
+    "stock": 88,
+    "brand": "Pedigree",
+    "category": "Snacks",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/192769-1000-1000/134080.jpg?v=638362700379500000"
+    ]
+  },
+  {
+    "id": 19,
+    "title": "Pelota de Fútbol Puppis de Vinilo",
+    "description": "",
+    "price": 3200,
+    "discountPercentage": 10.68,
+    "rating": 4.42,
+    "stock": 54,
+    "brand": "Puppis",
+    "category": "Juguetes",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/186289-1000-1000/269253.jpg?v=637854765694100000"
+    ]
+  },
+  {
+    "id": 20,
+    "title": "Kong Airdog Football - S",
+    "description": "",
+    "price": 11000,
+    "discountPercentage": 16.99,
+    "rating": 4.06,
+    "stock": 140,
+    "brand": "Fair & Clear",
+    "category": "Juguetes",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/182649-1000-1000/224387.jpg?v=637673987098670000"
+    ]
+  },
+  {
+    "id": 21,
+    "title": "Soga Con Pelotas Pet's Class ",
+    "description": "",
+    "price": 8500,
+    "discountPercentage": 4.81,
+    "rating": 4.44,
+    "stock": 133,
+    "brand": "",
+    "category": "Juguetes",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/193649-1000-1000/288099.jpg?v=638240112963570000"
+    ]
+  },
+  {
+    "id": 22,
+    "title": "PetsPlast Hueso Brillo Oscuridad ",
+    "description": "",
+    "price": 2000,
+    "discountPercentage": 15.58,
+    "rating": 4.57,
+    "stock": 146,
+    "brand": "Bake Parlor Big",
+    "category": "Juguetes",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/195812-1000-1000/264133.jpg?v=638399700279300000"
+    ]
+  },
+  {
+    "id": 23,
+    "title": "Huesos De Cuero Expanded Cancat - Nº6",
+    "description": "",
+    "price": 3500,
+    "discountPercentage": 8.04,
+    "rating": 4.85,
+    "stock": 26,
+    "brand": "Baking Food Items",
+    "category": "Juguetes",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/170713-1000-1000/421013.jpg?v=637183440547030000"
+    ]
+  },
+  {
+    "id": 24,
+    "title": "Aro Con Soga Y Pelota Pet's Class",
+    "description": "",
+    "price": 5500,
+    "discountPercentage": 16.8,
+    "rating": 4.94,
+    "stock": 113,
+    "brand": "fauji",
+    "category": "Juguetes",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/193648-1000-1000/288098.jpg?v=638240111189000000"
+    ]
+  },
+  {
+    "id": 25,
+    "title": "Bebedero Inoxidable Supernova - 0,6 Litros",
+    "description": "",
+    "price": 6300,
+    "discountPercentage": 13.58,
+    "rating": 4.87,
+    "stock": 47,
+    "brand": "Dry Rose",
+    "category": "Accesorios",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/180316-1000-1000/249794.jpg?v=637583218142970000"
+    ]
+  },
+  {
+    "id": 26,
+    "title": "Transportadora Cancat Skudo - Nª2",
+    "description": "",
+    "price": 67000,
+    "discountPercentage": 17.86,
+    "rating": 4.08,
+    "stock": 131,
+    "brand": "Boho Decor",
+    "category": "Accesorios",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/172059-1000-1000/221200.jpg?v=637318128414830000"
+    ]
+  },
+  {
+    "id": 27,
+    "title": "Rascador Cancat Con Caja",
+    "description": "",
+    "price": 27000,
+    "discountPercentage": 15.58,
+    "rating": 4.41,
+    "stock": 17,
+    "brand": "Flying Wooden",
+    "category": "Accesorios",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/174044-1000-1000/221314.jpg?v=637434938332630000"
+    ]
+  },
+  {
+    "id": 28,
+    "title": "Cobertor Brakko Para Asiento Trasero",
+    "description": "",
+    "price": 35000,
+    "discountPercentage": 16.49,
+    "rating": 4.82,
+    "stock": 54,
+    "brand": "LED Lights",
+    "category": "Accesorios",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/170777-1000-1000/229149.jpg?v=637191184938030000"
+    ]
+  },
+  {
+    "id": 29,
+    "title": "Comedero Doble Acero Inoxidable Puppis 0.85 L",
+    "description": "",
+    "price": 16150,
+    "discountPercentage": 15.34,
+    "rating": 4.44,
+    "stock": 7,
+    "brand": "luxury palace",
+    "category": "Accesorios",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/189252-1000-1000/269359.jpg?v=637979987016330000"
+    ]
+  },
+  {
+    "id": 30,
+    "title": "Bebedero PetsPlast Celeste Con Dosificador",
+    "description": "",
+    "price": 5450,
+    "discountPercentage": 2.92,
+    "rating": 4.92,
+    "stock": 54,
+    "brand": "Golden",
+    "category": "Accesorios",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/192772-1000-1000/264118.jpg?v=638211558409930000"
+    ]
+  },
+  {
+    "id": 31,
+    "title": "Cepillo Puppis Doble - S",
+    "description": "",
+    "price": 7250,
+    "discountPercentage": 17,
+    "rating": 4.16,
+    "stock": 140,
+    "brand": "Furniture Bed Set",
+    "category": "Limpieza",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/176378-1000-1000/269107.jpg?v=637540873881500000"
+    ]
+  },
+  {
+    "id": 32,
+    "title": "Enjuague Osspret Para Perros - 250cc",
+    "description": "",
+    "price": 5000,
+    "discountPercentage": 15.59,
+    "rating": 4.74,
+    "stock": 30,
+    "brand": "Ratttan Outdoor",
+    "category": "Limpieza",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/158199-1000-1000/366035.jpg?v=635972026933230000"
+    ]
+  },
+  {
+    "id": 33,
+    "title": "Shampoo Osspret Máximo Color Bronce",
+    "description": "",
+    "price": 5500,
+    "discountPercentage": 17,
+    "rating": 4.31,
+    "stock": 106,
+    "brand": "Kitchen Shelf",
+    "category": "Limpieza",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/174696-1000-1000/366113.jpg?v=637452603422070000"
+    ]
+  },
+  {
+    "id": 34,
+    "title": "Removedor De Pelo Cocooning Azul - Tamaño Único",
+    "description": "",
+    "price": 5036,
+    "discountPercentage": 4,
+    "rating": 4.01,
+    "stock": 136,
+    "brand": "Multi Purpose",
+    "category": "Limpieza",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/167757-1000-1000/248034-A.jpg?v=637033086847700000"
+    ]
+  },
+  {
+    "id": 35,
+    "title": "Corta Uñas Dogit Profesional",
+    "description": "",
+    "price": 14790,
+    "discountPercentage": 7.98,
+    "rating": 4.06,
+    "stock": 68,
+    "brand": "AmnaMart",
+    "category": "Limpieza",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/175888-1000-1000/228299.jpg?v=637511796861600000"
+    ]
+  },
+  {
+    "id": 36,
+    "title": "Cepillo CanCat Doble Madera - L",
+    "description": "",
+    "price": 6800,
+    "discountPercentage": 10.89,
+    "rating": 4.26,
+    "stock": 39,
+    "brand": "Professional Wear",
+    "category": "Limpieza",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/193064-1000-1000/251323.jpg?v=638225209717600000"
+    ]
+  },
+  {
+    "id": 37,
+    "title": "Collar AFA - S",
+    "description": "",
+    "price": 4500,
+    "discountPercentage": 12.05,
+    "rating": 4.52,
+    "stock": 107,
+    "brand": "Soft Cotton",
+    "category": "Correas",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/195381-1000-1000/221991.jpg?v=638355628060500000"
+    ]
+  },
+  {
+    "id": 38,
+    "title": "Correa Extensible Ferplast Flippy Cord Rojo",
+    "description": "",
+    "price": 17000,
+    "discountPercentage": 11.12,
+    "rating": 4.8,
+    "stock": 20,
+    "brand": "Soft Cotton",
+    "category": "Correas",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/192509-1000-1000/248250.jpg?v=638198398256600000"
+    ]
+  },
+  {
+    "id": 39,
+    "title": "Bozal Brakko Canasta - N°2",
+    "description": "",
+    "price": 3700,
+    "discountPercentage": 17.2,
+    "rating": 4.55,
+    "stock": 55,
+    "brand": "Top Sweater",
+    "category": "Correas",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/194130-1000-1000/206062-206063-206064-206065-206066-206067.jpg?v=638264956644570000"
+    ]
+  },
+  {
+    "id": 40,
+    "title": "Arnes Cocooning Joseph Gris Lima - S",
+    "description": "",
+    "price": 14050,
+    "discountPercentage": 13.39,
+    "rating": 4.91,
+    "stock": 84,
+    "brand": "Top Sweater",
+    "category": "Correas",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/173395-1000-1000/248059.jpg?v=637395949315730000"
+    ]
+  },
+  {
+    "id": 41,
+    "title": "Pretal AFA - S-M",
+    "description": "",
+    "price": 14500,
+    "discountPercentage": 15.05,
+    "rating": 4.65,
+    "stock": 21,
+    "brand": "RED MICKY MOUSE..",
+    "category": "Correas",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/195321-1000-1000/221997-221998.jpg?v=638349840809300000"
+    ]
+  },
+  {
+    "id": 42,
+    "title": "Correa Ferplast Evolution GM Negro",
+    "description": "",
+    "price": 12950,
+    "discountPercentage": 15.37,
+    "rating": 4.05,
+    "stock": 148,
+    "brand": "Digital Printed",
+    "category": "Correas",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/192522-600-600/248241.jpg?v=638198401460100000"
+    ]
+  },
+  {
+    "id": 43,
+    "title": "Moises Puppis Classic Paris",
+    "description": "",
+    "price": 27800,
+    "discountPercentage": 15.55,
+    "rating": 4.31,
+    "stock": 150,
+    "brand": "Ghazi Fabric",
+    "category": "Camas",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/186301-1000-1000/269335.jpg?v=637854765741030000"
+    ]
+  },
+  {
+    "id": 44,
+    "title": "Cucha Furacao Pet Plastica Azul - 4",
+    "description": "",
+    "price": 56780,
+    "discountPercentage": 16.88,
+    "rating": 4.03,
+    "stock": 2,
+    "brand": "Ghazi Fabric",
+    "category": "Camas",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/176923-1000-1000/4.jpg?v=637557593750530000"
+    ]
+  },
+  {
+    "id": 45,
+    "title": "Cama Lola Otto Cuadrada - S",
+    "description": "",
+    "price": 32000,
+    "discountPercentage": 5.07,
+    "rating": 4.67,
+    "stock": 96,
+    "brand": "IELGY",
+    "category": "Camas",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/165828-1000-1000/278002.jpg?v=636816056373370000"
+    ]
+  },
+  {
+    "id": 46,
+    "title": "Moises Dogit Cuddle Redondo Gris",
+    "description": "",
+    "price": 35710,
+    "discountPercentage": 16.96,
+    "rating": 4.14,
+    "stock": 72,
+    "brand": "IELGY fashion",
+    "category": "Camas",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/176518-1000-1000/245165.jpg?v=637546240199300000"
+    ]
+  },
+  {
+    "id": 47,
+    "title": "Cucha Animal Pet Plastica",
+    "description": "",
+    "price": 91000,
+    "discountPercentage": 10.37,
+    "rating": 4.19,
+    "stock": 50,
+    "brand": "Synthetic Leather",
+    "category": "Camas",
+    "thumbnail": "",
+    "images": [
+      "https://puppis.vteximg.com.br/arquivos/ids/168459-1000-1000/246243.jpg?v=637076216839230000"
+    ]
+  },
+  {
+    "id": 48,
+    "title": "Women Strip Heel",
+    "description": "",
+    "price": 40,
+    "discountPercentage": 10.83,
+    "rating": 4.02,
+    "stock": 25,
+    "brand": "Sandals Flip Flops",
+    "category": "womens-shoes",
+    "thumbnail": "Camas",
+    "images": [
+      "https://i.dummyjson.com/data/products/48/1.jpg"
+    ]
+  }
+]
